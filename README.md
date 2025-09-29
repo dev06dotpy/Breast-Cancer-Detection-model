@@ -27,10 +27,16 @@ The dataset used is [Breast Cancer Wisconsin (Diagnostic) Dataset 1995](https://
 
 ---
 
-## Screemshots
-[Shap Summary Plot](screenshots\XGBoostClassifer_Shap_values.png)
-[XGB Classifier performance metrics](screenshots\XGBoostClassifier_performance_metrics.png)
+## Screenshots
 
+### Shap Summary for XGBoost Classifier
+![Shap Summary Plot](screenshots/XGBoostClassifer_Shap_values.png)
+---
+
+### Performance Metrics for XGBoost Classifier
+![XGB Classifier performance metrics](screenshots/XGBoostClassifier_performance_metrics.png)
+
+---
 
 ## Requirements
 Install dependencies:
