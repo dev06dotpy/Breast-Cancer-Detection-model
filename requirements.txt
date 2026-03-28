@@ -5,3 +5,4 @@ optuna>=4.0
 shap>=0.46
 matplotlib>=3.9
 plotly>=5.20
+nbformat>=4.20
